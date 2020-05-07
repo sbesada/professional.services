@@ -22,7 +22,7 @@ Using a recursive Ascent Parser algorithm (https://en.wikipedia.org/wiki/Recursi
 
 ### logical expression parser examples
 
-My logical expression parser can evaluate expressions such as
- - "(workstation not contains XXX && modelname == YYY && ipaddress == XXX.XX.XX.XX) || (workstation contains ZZ && modelname == SC-04 && ipaddress == YY.YY.YY.YY)"
+My logical expression parser can evaluate expressions such as:
+ - "(workstation not contains XXX && modelname == YYY && ipaddress == XXX.XX.XX.XX) || (workstation contains ZZ && modelname == PP && ipaddress == YY.YY.YY.YY)"
  - "system contains XXX && ((priority > 9 || priority >=10) && ( severity < 8  || severity <= 8)) "
  - "((FQN == "XXX" || FQN == "YYY" || FQN == "ZZZ" || FQN == "KKK" || FQN == "MMM" || FQN == "NNN" || FQN == "PPP"))"
