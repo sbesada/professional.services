@@ -11,10 +11,12 @@ Using a recursive Ascent Parser algorithm (https://en.wikipedia.org/wiki/Recursi
 - available on request
 ### Operators 
  - ==, !=, >=, <=, >, < not containes , contains, &&, ||
-## python logical expression parser - available on request
+## python logical expression parser 
+- available on request
 ### Operators 
  - ==, !=, >=, <=, >, < not containes , contains, &&, ||
-## javascript logical expression parser - available on request
+## javascript logical expression parser 
+- available on request
 ### Operators 
  - ==, !=, >=, <=, >, < not containes , contains, &&, ||
 
