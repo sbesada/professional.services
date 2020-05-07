@@ -1,10 +1,14 @@
 # Professional Services
 Using a recursive Ascent Parser algorithm (https://en.wikipedia.org/wiki/Recursive_ascent_parser) I can do
 
-## python math expression parser - free
-## java math expression parser - free
-## javascript math expression parsers - available on request
-## java logical expression parser - available on request
+## python math expression parser 
+- free
+## java math expression parser 
+- free
+## javascript math expression parsers 
+- available on request
+## java logical expression parser 
+- available on request
 ### Operators 
  - ==, !=, >=, <=, >, < not containes , contains, &&, ||
 ## python logical expression parser - available on request
