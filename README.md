@@ -12,16 +12,19 @@ Using a recursive Ascent Parser algorithm (https://en.wikipedia.org/wiki/Recursi
 ### Operators 
  - ==, !=, >=, <=, >, <, not containes , contains, &&, ||
  - parentheses (...)
+ - configurable functions: "severity" is a function that you can translate by a String or number. The name of the function is configurable so you can create your own logical language
 ## python logical expression parser 
 - available on request
 ### Operators 
  - ==, !=, >=, <=, >, <, not containes , contains, &&, ||
  - parentheses (...)
+ - configurable functions: "severity" is a function that you can translate by a String or number. The name of the function is configurable so you can create your own logical language
 ## javascript logical expression parser 
 - available on request
 ### Operators 
  - ==, !=, >=, <=, >, <, not containes , contains, &&, ||
  - parentheses (...)
+ - configurable functions: "severity" is a function that you can translate by a String or number. The name of the function is configurable so you can create your own logical language
 
 ### logical expression parser examples
 
