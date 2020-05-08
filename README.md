@@ -10,17 +10,17 @@ Using a recursive Ascent Parser algorithm (https://en.wikipedia.org/wiki/Recursi
 ## java logical expression parser 
 - available on request
 ### Operators 
- - ==, !=, >=, <=, >, < not containes , contains, &&, ||
+ - ==, !=, >=, <=, >, <, not containes , contains, &&, ||
  - parentheses (...)
 ## python logical expression parser 
 - available on request
 ### Operators 
- - ==, !=, >=, <=, >, < not containes , contains, &&, ||
+ - ==, !=, >=, <=, >, <, not containes , contains, &&, ||
  - parentheses (...)
 ## javascript logical expression parser 
 - available on request
 ### Operators 
- - ==, !=, >=, <=, >, < not containes , contains, &&, ||
+ - ==, !=, >=, <=, >, <, not containes , contains, &&, ||
  - parentheses (...)
 
 ### logical expression parser examples
